@@ -41,4 +41,4 @@ The main modifications base on yolo v8  are located ./ultralytice/engine/predict
 
 ## Contact information
 
-If you have any questions about this project, please feel free to contact us. Email address: 2245162223@qq.com
+If you have any questions about this project, please feel free to contact us. Email address: 13781672351@163.com
